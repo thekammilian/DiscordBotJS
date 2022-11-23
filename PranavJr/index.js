@@ -56,4 +56,4 @@ bot.on('messageUpdate', (oldMessage,newMessage) => {
 });
 console.log("I love Vibhav");
 console.log(list.toString());
-bot.login("Nzc1NTEyNjYxNTUwNjk0NDEx.X6nacg.uCnuWD2cKXcm4p9KilY5lBpQC4M");
+bot.login("");//insert token here
